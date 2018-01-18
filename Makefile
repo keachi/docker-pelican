@@ -1,7 +1,6 @@
 .DEFAULT_GOAL := help
 
 IMAGE_NAME			:= keachi/pelican
-IMAGE_DESCRIPTION	:= "Pelican Static Site Generator"
 SHELL				:= /bin/sh
 
 SCMD := $(shell \
